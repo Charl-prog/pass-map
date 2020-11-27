@@ -132,7 +132,7 @@
         {
          "columns":16,
          "firstgid":1,
-         "image":"tilesets\/tilesets_deviant_milkian_1.png",
+         "image":"Tilesets\/tilesets_deviant_milkian_1.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -857,7 +857,7 @@
         {
          "columns":8,
          "firstgid":257,
-         "image":"tilesets\/floortileset.png",
+         "image":"Tilesets\/floortileset.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -906,7 +906,7 @@
         {
          "columns":24,
          "firstgid":4457,
-         "image":"Tilesets\/black_furnitures.png",
+         "image":"\/black_furnitures.png",
          "imageheight":768,
          "imagewidth":768,
          "margin":0,
